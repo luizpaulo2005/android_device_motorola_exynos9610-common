@@ -284,7 +284,7 @@
     <string name="config_mainBuiltInDisplayCutout" translatable="false">M 0,0 H 66.0 V 69.0 H 0 V 0 Z @dp @left</string>
 
     <!-- Default files to pin via Pinner Service -->
-    <string-array name="config_defaultPinnerServiceFiles">
+    <string-array name="config_defaultPinnerServiceFiles" translatable="false">
         <item>/apex/com.android.art/javalib/core-oj.jar</item>
         <item>/apex/com.android.art/javalib/core-libart.jar</item>
         <item>/system/framework/framework.jar</item>
